@@ -1,0 +1,8 @@
+
+githubでリポジトリを作ったらどう削除する？
+
+1.リポジトリのページで"Setting"を選びます
+2."Delete this repository"をクリック
+3.警告を読んで、消したいリポジトリの名前を入力します
+4."I understand the consequences, delete this repository"をクリック
+
